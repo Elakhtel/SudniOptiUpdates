@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.1.0</version>
-    <url>https://github.com/Elakhtel/SudniOptiUpdates/releases/download/v1.1.0/SudaniOpti.exe</url>
-    <changelog>إصدار جديد لتحسين أداء النظام.</changelog>
+    <version>1.2.0</version>
+    <url>https://github.com/Elakhtel/SudniOptiUpdates/releases/download/v1.2.0/SudaniOpti.exe</url>
+    <changelog>إصدار v1.2.0: تحديثات أمنية متقدمة لوحة المطور، إضافة أداة التنظيف الذكي لقواعد البيانات، وخيارات مرنة لإدارة الأصناف.</changelog>
     <mandatory>false</mandatory>
 </item>
