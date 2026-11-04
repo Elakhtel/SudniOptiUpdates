@@ -2,6 +2,6 @@
 <item>
     <version>1.2.0</version>
     <url>https://github.com/Elakhtel/SudniOptiUpdates/releases/download/v1.2.0/SudaniOpti.exe</url>
-    <changelog>إصدار v1.2.0: تحديثات أمنية متقدمة لوحة المطور، إضافة أداة التنظيف الذكي لقواعد البيانات، وخيارات مرنة لإدارة الأصناف.</changelog>
+<changelog>https://raw.githubusercontent.com/Elakhtel/SudniOptiUpdates/refs/heads/main/changelog.txt</changelog> 
     <mandatory>false</mandatory>
 </item>
